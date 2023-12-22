@@ -1,0 +1,4 @@
+repository "Brigde-Race@KStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
